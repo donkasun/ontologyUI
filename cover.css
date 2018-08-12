@@ -164,15 +164,15 @@ body {
 
 .leftCont {
   float: left;
-  height:6000;
-  width:47%;
+  height:650;
+  width:46%;
   display: inline-block;
 }
 
 .rightCont {
   float:right;
-  height:600;
-  width: 47%;
+  height:650;
+  width: 46%;
   display: inline-block;
 }
 
