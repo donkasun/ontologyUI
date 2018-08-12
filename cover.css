@@ -163,6 +163,7 @@ body {
 }
 
 .leftCont {
+  margin-top: 50px;
   float: left;
   height:650;
   width:46%;
@@ -170,6 +171,7 @@ body {
 }
 
 .rightCont {
+  margin-top: 50px;
   float:right;
   height:650;
   width: 46%;
